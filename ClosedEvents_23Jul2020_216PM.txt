@@ -1,0 +1,311 @@
+Closing 26530b62-c79c-71ea-01f8-0ac3d69b0000, Resolved, INC000028074557,  API Bridge2, DCN CompuCom Incident Management
+Closing 49a21016-c929-71ea-1e68-0ac3d69b0000, Resolved, INC000028085535,  Roger Feighney, STORAGE - BACKUP
+Closing c040188c-c8a0-71ea-1de6-0ac3d69b0000, Resolved, INC000028080896,  Roger Feighney, STORAGE - BACKUP
+Closing 54dbdbf6-c87a-71ea-1dc0-0ac3d69b0000, Resolved, INC000028080833,  Roger Feighney, STORAGE - BACKUP
+Closing db64d176-ccdc-71ea-01db-0ac3d69b0000, Resolved, INC000028101902,  Errol Allison, MANAGED HOSTING – WINTEL
+Closing 2801598c-c7e7-71ea-023f-0ac3d69b0000, Resolved, INC000028074589,  Remus Bota, STORAGE - BACKUP
+Closing 844b7eb6-c896-71ea-1ddc-0ac3d69b0000, Resolved, INC000028080868,  Roger Feighney, STORAGE - BACKUP
+Closing 53766fee-cc74-71ea-0190-0ac3d69b0000, Resolved, INC000028099381,  Roger Feighney, STORAGE - BACKUP
+Closing b2b8b19e-c6f0-71ea-1806-0ac3d69b0000, Resolved, INC000028074510,  Roger Feighney, STORAGE - BACKUP
+Closing d881bb9a-cc6e-71ea-018d-0ac3d69b0000, Resolved, INC000028099376,  API Bridge2, DCN CompuCom Incident Management
+Closing ff5b005a-cc23-71ea-015e-0ac3d69b0000, Resolved, INC000028098132,  Vickie Charboneau, OCC
+Closing a3ab9908-c8fa-71ea-1e3b-0ac3d69b0000, Cancelled, INC000028085312,  Roger Feighney, STORAGE - BACKUP
+Closing d73934e8-c93a-71ea-1e79-0ac3d69b0000, Cancelled, INC000028085543,  Roger Feighney, STORAGE - BACKUP
+Closing b3be6442-c931-71ea-1e70-0ac3d69b0000, Cancelled, INC000028085541,  Roger Feighney, STORAGE - BACKUP
+Closing 7d6a80c6-cc5e-71ea-0185-0ac3d69b0000, Resolved, INC000028099370,  Cary Chiu, STORAGE - BACKUP
+Closing 7d6d855a-cc5e-71ea-0185-0ac3d69b0000, Resolved, INC000028099371,  Cary Chiu, STORAGE - BACKUP
+Closing 0f9f5418-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098161,  Vickie Charboneau, OCC
+Closing bc8363b6-cc2e-71ea-0162-0ac3d69b0000, Resolved, INC000028098139,  Vickie Charboneau, OCC
+Closing 560ec760-cc47-71ea-0177-0ac3d69b0000, Resolved, INC000028099360,  Alex Langman, MANAGED HOSTING – WINTEL
+Closing 91574bf0-cc27-71ea-0160-0ac3d69b0000, Resolved, INC000028098133,  Vickie Charboneau, OCC
+Closing 265333c4-cc2b-71ea-0161-0ac3d69b0000, Resolved, INC000028098137,  Vickie Charboneau, OCC
+Closing 4cb97058-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099339,  Vickie Charboneau, OCC
+Closing 4cb3d4a4-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099338,  Vickie Charboneau, OCC
+Closing 4cae61c2-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099333,  Vickie Charboneau, OCC
+Closing 4ca90f60-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099336,  Vickie Charboneau, OCC
+Closing 4c93e892-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099335,  Vickie Charboneau, OCC
+Closing 4c8e7f2e-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099334,  Vickie Charboneau, OCC
+Closing 4ca3d4aa-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099330,  Vickie Charboneau, OCC
+Closing 4c9e87d4-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099331,  Vickie Charboneau, OCC
+Closing 4c9938e2-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099332,  Vickie Charboneau, OCC
+Closing 2339ce26-cc32-71ea-0166-0ac3d69b0000, Resolved, INC000028099328,  Vickie Charboneau, OCC
+Closing f6592faa-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099327,  Vickie Charboneau, OCC
+Closing f65214a4-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099326,  Vickie Charboneau, OCC
+Closing f64c59c4-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099322,  Vickie Charboneau, OCC
+Closing f646e1ba-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099324,  Vickie Charboneau, OCC
+Closing f641434a-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099323,  Vickie Charboneau, OCC
+Closing f63b5af2-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099325,  Vickie Charboneau, OCC
+Closing f63518c2-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099320,  Vickie Charboneau, OCC
+Closing dc138848-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099318,  Vickie Charboneau, OCC
+Closing dc0e301e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099317,  Vickie Charboneau, OCC
+Closing c9737a22-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099315,  Vickie Charboneau, OCC
+Closing bcceab70-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099314,  Vickie Charboneau, OCC
+Closing b4271e6c-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099313,  Vickie Charboneau, OCC
+Closing b1315484-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099312,  Vickie Charboneau, OCC
+Closing ab393b96-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099310,  Vickie Charboneau, OCC
+Closing ab3234ae-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099309,  Vickie Charboneau, OCC
+Closing a239590e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099308,  Vickie Charboneau, OCC
+Closing 941de646-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099303,  Vickie Charboneau, OCC
+Closing 941a413a-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099305,  Vickie Charboneau, OCC
+Closing 940f29ee-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099306,  Vickie Charboneau, OCC
+Closing 9409a352-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099304,  Vickie Charboneau, OCC
+Closing 9414c7dc-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099302,  Vickie Charboneau, OCC
+Closing 93fcef0e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028099300,  Vickie Charboneau, OCC
+Closing 94031348-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098197,  Vickie Charboneau, OCC
+Closing 93f737da-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098199,  Vickie Charboneau, OCC
+Closing 93f1c02a-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098198,  Vickie Charboneau, OCC
+Closing 80d1691e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098195,  Vickie Charboneau, OCC
+Closing 80cc0398-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098193,  Vickie Charboneau, OCC
+Closing 80c6a6be-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098194,  Vickie Charboneau, OCC
+Closing 80c142d2-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098192,  Vickie Charboneau, OCC
+Closing 80bbe4ea-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098191,  Vickie Charboneau, OCC
+Closing 7f037cd0-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098189,  Vickie Charboneau, OCC
+Closing 78cdf5f2-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098188,  Vickie Charboneau, OCC
+Closing 75f9f2ae-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098187,  Vickie Charboneau, OCC
+Closing 75f47d88-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098186,  Vickie Charboneau, OCC
+Closing 6c93936e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098185,  Vickie Charboneau, OCC
+Closing 674e96ce-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098184,  Vickie Charboneau, OCC
+Closing 63a63842-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098181,  Vickie Charboneau, OCC
+Closing 63a0ec48-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098182,  Vickie Charboneau, OCC
+Closing 639ba81e-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098180,  Vickie Charboneau, OCC
+Closing 639124c0-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098177,  Vickie Charboneau, OCC
+Closing 638bd632-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098178,  Vickie Charboneau, OCC
+Closing 63811d00-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098179,  Vickie Charboneau, OCC
+Closing 637bdf20-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098176,  Vickie Charboneau, OCC
+Closing 639660a2-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098174,  Vickie Charboneau, OCC
+Closing 638653ec-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098175,  Vickie Charboneau, OCC
+Closing 636ab1c8-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098172,  Vickie Charboneau, OCC
+Closing 63655872-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098173,  Vickie Charboneau, OCC
+Closing 63769e34-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098171,  Vickie Charboneau, OCC
+Closing d7e3b1b2-cc1d-71ea-1ccd-0a5630b20000, Resolved, INC000028097285,  Vickie Charboneau, OCC
+Closing 51817bae-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098169,  Vickie Charboneau, OCC
+Closing 2cc008e4-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098168,  Vickie Charboneau, OCC
+Closing 2404cf3c-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098167,  Vickie Charboneau, OCC
+Closing 1585eb08-cc31-71ea-0165-0ac3d69b0000, Resolved, INC000028098164,  Vickie Charboneau, OCC
+Closing 1346f58a-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098165,  Vickie Charboneau, OCC
+Closing 11f220e2-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098163,  Vickie Charboneau, OCC
+Closing 11257eb6-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098162,  Vickie Charboneau, OCC
+Closing 13264f06-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098160,  Vickie Charboneau, OCC
+Closing 12f2d5a4-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098159,  Vickie Charboneau, OCC
+Closing 124064c8-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098158,  Vickie Charboneau, OCC
+Closing 11fe2450-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098157,  Vickie Charboneau, OCC
+Closing 10f4fe62-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098156,  Vickie Charboneau, OCC
+Closing 1256fb20-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098154,  Vickie Charboneau, OCC
+Closing 122a40a8-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098155,  Vickie Charboneau, OCC
+Closing 110bd59c-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098153,  Vickie Charboneau, OCC
+Closing 0f5edcda-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098152,  Vickie Charboneau, OCC
+Closing 0f3637d0-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098151,  Vickie Charboneau, OCC
+Closing 0f1ee90e-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098150,  Vickie Charboneau, OCC
+Closing 0f58d934-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098149,  Vickie Charboneau, OCC
+Closing 0f4d6fa4-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098148,  Vickie Charboneau, OCC
+Closing 558586d2-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097246,  Vickie Charboneau, OCC
+Closing 0af96b6a-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098145,  Vickie Charboneau, OCC
+Closing 07d86fda-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098143,  Vickie Charboneau, OCC
+Closing 05f49874-cc31-71ea-0164-0ac3d69b0000, Resolved, INC000028098142,  Vickie Charboneau, OCC
+Closing d5e61d8c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097283,  Vickie Charboneau, OCC
+Closing d546a284-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097273,  Vickie Charboneau, OCC
+Closing c6956022-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097266,  Vickie Charboneau, OCC
+Closing 9406d6e4-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098126,  Vickie Charboneau, OCC
+Closing 543bee64-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098122,  Vickie Charboneau, OCC
+Closing 54365256-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098125,  Vickie Charboneau, OCC
+Closing 542b9fc8-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098123,  Vickie Charboneau, OCC
+Closing 54264c94-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098124,  Vickie Charboneau, OCC
+Closing 5430f158-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098121,  Vickie Charboneau, OCC
+Closing 5420e9e8-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098119,  Vickie Charboneau, OCC
+Closing 541b8f8e-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098118,  Vickie Charboneau, OCC
+Closing 4ce5ff4c-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098116,  Vickie Charboneau, OCC
+Closing 3d76be98-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098115,  Vickie Charboneau, OCC
+Closing 3a544b54-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098114,  Vickie Charboneau, OCC
+Closing 2dc6fb70-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098113,  Vickie Charboneau, OCC
+Closing 2569d2b8-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098110,  Vickie Charboneau, OCC
+Closing 2564741c-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098111,  Vickie Charboneau, OCC
+Closing 1c781af2-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098109,  Vickie Charboneau, OCC
+Closing 1c720662-cc1e-71ea-015c-0ac3d69b0000, Resolved, INC000028098108,  Vickie Charboneau, OCC
+Closing 13758ae8-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098107,  Vickie Charboneau, OCC
+Closing 0db48b90-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098106,  Vickie Charboneau, OCC
+Closing 0db9f6fc-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098105,  Vickie Charboneau, OCC
+Closing 0da489e8-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098104,  Vickie Charboneau, OCC
+Closing 0daf315e-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098103,  Vickie Charboneau, OCC
+Closing 0da9ddbc-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098102,  Vickie Charboneau, OCC
+Closing 0d9f446a-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028097299,  Vickie Charboneau, OCC
+Closing 0d99fdca-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028097298,  Vickie Charboneau, OCC
+Closing 0d94b3ba-cc1e-71ea-015b-0ac3d69b0000, Resolved, INC000028098100,  Vickie Charboneau, OCC
+Closing 263a1851-cd0a-71ea-19e7-8e9040240000, Resolved, INC000028101921,  Jeff Kyle, OCC INBOUND QUEUE
+Closing f208203c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097297,  Vickie Charboneau, OCC
+Closing f21843cc-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097296,  Vickie Charboneau, OCC
+Closing f212d658-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097295,  Vickie Charboneau, OCC
+Closing f20d7a82-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097294,  Vickie Charboneau, OCC
+Closing f202bc3c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097293,  Vickie Charboneau, OCC
+Closing efe85740-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097292,  Vickie Charboneau, OCC
+Closing ead5d9e4-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097291,  Vickie Charboneau, OCC
+Closing e732b1ea-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097290,  Vickie Charboneau, OCC
+Closing e72d432c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097289,  Vickie Charboneau, OCC
+Closing dda32e7a-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097287,  Vickie Charboneau, OCC
+Closing dd9c2404-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097286,  Vickie Charboneau, OCC
+Closing d5eba2b6-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097284,  Vickie Charboneau, OCC
+Closing d5ce23d0-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097282,  Vickie Charboneau, OCC
+Closing d5a5ac52-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097281,  Vickie Charboneau, OCC
+Closing d595f244-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097280,  Vickie Charboneau, OCC
+Closing d58d9c52-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097279,  Vickie Charboneau, OCC
+Closing d56d70d0-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097278,  Vickie Charboneau, OCC
+Closing d57df6bc-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097275,  Vickie Charboneau, OCC
+Closing d575b7d6-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097276,  Vickie Charboneau, OCC
+Closing d55ae7d0-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097274,  Vickie Charboneau, OCC
+Closing d5502084-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097277,  Vickie Charboneau, OCC
+Closing c68d9d10-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097269,  Vickie Charboneau, OCC
+Closing c6886a3e-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097270,  Vickie Charboneau, OCC
+Closing c67e017a-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097271,  Vickie Charboneau, OCC
+Closing c65e22d8-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097268,  Vickie Charboneau, OCC
+Closing c678cac0-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097264,  Vickie Charboneau, OCC
+Closing c673791c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097265,  Vickie Charboneau, OCC
+Closing c66e24d0-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097263,  Vickie Charboneau, OCC
+Closing c6638066-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097267,  Vickie Charboneau, OCC
+Closing c683233a-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097261,  Vickie Charboneau, OCC
+Closing c668d052-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097262,  Vickie Charboneau, OCC
+Closing c6580718-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097258,  Vickie Charboneau, OCC
+Closing c2bb5c54-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097259,  Vickie Charboneau, OCC
+Closing a1681eb6-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097256,  Vickie Charboneau, OCC
+Closing 950207c2-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097255,  Vickie Charboneau, OCC
+Closing 831d4c06-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097254,  Vickie Charboneau, OCC
+Closing 55800af4-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097249,  Vickie Charboneau, OCC
+Closing 557a2594-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097248,  Vickie Charboneau, OCC
+Closing 55662e04-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097243,  Vickie Charboneau, OCC
+Closing 55590026-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097241,  Vickie Charboneau, OCC
+Closing 55742aae-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097240,  Vickie Charboneau, OCC
+Closing 55601b90-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097239,  Vickie Charboneau, OCC
+Closing 55537304-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097237,  Vickie Charboneau, OCC
+Closing 554db39c-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097235,  Vickie Charboneau, OCC
+Closing 556cb558-cc1d-71ea-015b-0ac3d69b0000, Resolved, INC000028097233,  Vickie Charboneau, OCC
+Closing b5bfd99c-c9c2-71ea-1ef9-0ac3d69b0000, Resolved, INC000028086198,  Roger Feighney, STORAGE - BACKUP
+Closing 90700766-c9c2-71ea-1ef9-0ac3d69b0000, Cancelled, INC000028086197,  Roger Feighney, STORAGE - BACKUP
+Closing efe4201c-cbcd-71ea-0133-0ac3d69b0000, Resolved, INC000028094590,  API Bridge2, DCN CompuCom Incident Management
+Closing af3048b6-c63c-71ea-1763-0ac3d69b0000, Resolved, INC000028067973,  BEN ONDORO, EFSS - FILE PRINT
+Closing 59c0c91e-c899-71ea-1ddf-0ac3d69b0000, Cancelled, INC000028080869,  Roger Feighney, STORAGE - BACKUP
+Closing 2fbd64c4-cba0-71ea-0115-0ac3d69b0000, Resolved, INC000028094525,  API Bridge2, DCN CompuCom Incident Management
+Closing c8341114-cb08-71ea-0092-0ac3d69b0000, Resolved, INC000028090251,  Roger Feighney, STORAGE - BACKUP
+Closing e2c2dcf2-ca1a-71ea-1f47-0ac3d69b0000, Cancelled, INC000028086806,  Roger Feighney, STORAGE - BACKUP
+Closing a8c3d686-cae3-71ea-006f-0ac3d69b0000, Resolved, INC000028090239,  Roger Feighney, STORAGE - BACKUP
+Closing 9551afb6-c8bc-71ea-1e01-0ac3d69b0000, Resolved, INC000028084639,  Roger Feighney, STORAGE - BACKUP
+Closing f123068c-cad3-71ea-0060-0ac3d69b0000, Resolved, INC000028090233,  API Bridge2, DCN CompuCom Incident Management
+Closing ec65ba0e-cad3-71ea-0060-0ac3d69b0000, Resolved, INC000028090232,  API Bridge2, DCN CompuCom Incident Management
+Closing 9e4429da-ca21-71ea-1f4c-0ac3d69b0000, Cancelled, INC000028086822,  Roger Feighney, STORAGE - BACKUP
+Closing 46b71952-c990-71ea-1eca-0ac3d69b0000, Cancelled, INC000028085686,  Roger Feighney, STORAGE - BACKUP
+Closing 84d50a4e-ca9b-71ea-1fbf-0ac3d69b0000, Resolved, INC000028087046,  Lori Laur, OCC
+Closing 1fa310a4-c7e8-71ea-0240-0ac3d69b0000, Resolved, INC000028074591,  Wade Cooper, HARDWARE SUPPORT
+Closing a42fcbd2-c9e6-71ea-1f18-0ac3d69b0000, Resolved, INC000028086351,  Roger Feighney, STORAGE - BACKUP
+Closing afe895da-ca72-71ea-1f99-0ac3d69b0000, Cancelled, INC000028087011,  Roger Feighney, STORAGE - BACKUP
+Closing bddd0cac-c8d3-71ea-1e16-0ac3d69b0000, Resolved, INC000028084647,  Roger Feighney, STORAGE - BACKUP
+Closing 18aafbae-ca18-71ea-1f45-0ac3d69b0000, Resolved, INC000028086804,  Roger Feighney, STORAGE - BACKUP
+Closing b60995b0-ca16-71ea-1f43-0ac3d69b0000, Resolved, INC000028086801,  Roger Feighney, STORAGE - BACKUP
+Closing 94754ee8-ca21-71ea-1f4c-0ac3d69b0000, Resolved, INC000028086821,  Roger Feighney, STORAGE - BACKUP
+Closing 59ed475e-c97b-71ea-0a35-0ac81c3f0000, Resolved, INC000028085663,  Mervyn D'Cunha, SUS OPERATIONS
+Closing 9b75482a-c7c8-71ea-0221-0ac3d69b0000, Resolved, INC000028074581,  Roger Feighney, STORAGE - BACKUP
+Closing 0713467a-ca0f-71ea-1f3c-0ac3d69b0000, Cancelled, INC000028086392,  Roger Feighney, STORAGE - BACKUP
+Closing 84d7d098-c0ba-71ea-139d-0ac3d69b0000, Resolved, INC000028044888,  Shan Ahmad, GoCLOUD RESPONSE
+Closing b77ddb98-c9fa-71ea-1f2c-0ac3d69b0000, Cancelled, INC000028086377,  Roger Feighney, STORAGE - BACKUP
+Closing b6c61e90-c978-71ea-1eb5-0ac3d69b0000, Cancelled, INC000028085661,  Roger Feighney, STORAGE - BACKUP
+Closing 443c8474-c9da-71ea-1f0d-0ac3d69b0000, Cancelled, INC000028086328,  Roger Feighney, STORAGE - BACKUP
+Closing bf44f330-c9d1-71ea-1f05-0ac3d69b0000, Cancelled, INC000028086318,  Roger Feighney, STORAGE - BACKUP
+Closing ef386c48-c9cc-71ea-1f02-0ac3d69b0000, Cancelled, INC000028086310,  Roger Feighney, STORAGE - BACKUP
+Closing 9f3853f8-c9cb-71ea-1f02-0ac3d69b0000, Cancelled, INC000028086306,  Roger Feighney, STORAGE - BACKUP
+Closing b0b8d328-c9c1-71ea-1ef8-0ac3d69b0000, Cancelled, INC000028086195,  Roger Feighney, STORAGE - BACKUP
+Closing b8812202-c9af-71ea-1ee8-0ac3d69b0000, Cancelled, INC000028086135,  Roger Feighney, STORAGE - BACKUP
+Closing 9cddc96a-c923-71ea-1e63-0ac3d69b0000, Cancelled, INC000028085532,  Roger Feighney, STORAGE - BACKUP
+Closing 64141c04-c998-71ea-1ed2-0ac3d69b0000, Cancelled, INC000028085696,  Roger Feighney, STORAGE - BACKUP
+Closing dc20b16a-c995-71ea-1ecf-0ac3d69b0000, Cancelled, INC000028085695,  Roger Feighney, STORAGE - BACKUP
+Closing b8e8c454-c994-71ea-0d51-8e90401c0000, Resolved, INC000028085694,  Gus Pirovolakis, MANAGED HOSTING – WINTEL
+Closing f803bf1e-c993-71ea-1ecd-0ac3d69b0000, Cancelled, INC000028085691,  Roger Feighney, STORAGE - BACKUP
+Closing 451b39ee-c985-71ea-1ec0-0ac3d69b0000, Cancelled, INC000028085676,  Roger Feighney, STORAGE - BACKUP
+Closing d2ef5c7e-c98e-71ea-1ec8-0ac3d69b0000, Cancelled, INC000028085685,  Roger Feighney, STORAGE - BACKUP
+Closing 85b773ae-c94a-71ea-1e88-0ac3d69b0000, Cancelled, INC000028085551,  Roger Feighney, STORAGE - BACKUP
+Closing 3df28c5c-c968-71ea-1ea6-0ac3d69b0000, Resolved, INC000028085631,  David Drury, DCO DISPATCH
+Closing 5b397862-c967-71ea-1ea5-0ac3d69b0000, Resolved, INC000028085630,  Arley Roberts, EFSS - FILE PRINT
+Closing b1a1cc7c-c93f-71ea-1e7e-0ac3d69b0000, Cancelled, INC000028085548,  Roger Feighney, STORAGE - BACKUP
+Closing cc5a7468-c95f-71ea-1e9d-0ac3d69b0000, Cancelled, INC000028085609,  Roger Feighney, STORAGE - BACKUP
+Closing 7672b99e-c94a-71ea-1e88-0ac3d69b0000, Cancelled, INC000028085552,  Roger Feighney, STORAGE - BACKUP
+Closing 4a2c077c-c93c-71ea-1e7b-0ac3d69b0000, Cancelled, INC000028085544,  Roger Feighney, STORAGE - BACKUP
+Closing 0cf9e792-c924-71ea-1e63-0ac3d69b0000, Cancelled, INC000028085534,  Roger Feighney, STORAGE - BACKUP
+Closing 6d7f4e34-c921-71ea-1e61-0ac3d69b0000, Cancelled, INC000028085531,  Roger Feighney, STORAGE - BACKUP
+Closing 114b8290-c91c-71ea-0c24-8e9040240000, Resolved, INC000028085326,  Christopher Phillips, OPS EIM MONITORING
+Closing 7aa1b8f4-c912-71ea-1e52-0ac3d69b0000, Cancelled, INC000028085321,  Roger Feighney, STORAGE - BACKUP
+Closing 7796990a-c911-71ea-1e51-0ac3d69b0000, Cancelled, INC000028085320,  Roger Feighney, STORAGE - BACKUP
+Closing 27d80430-c911-71ea-1e51-0ac3d69b0000, Cancelled, INC000028085319,  Roger Feighney, STORAGE - BACKUP
+Closing b387ba80-c910-71ea-1e50-0ac3d69b0000, Cancelled, INC000028085317,  Roger Feighney, STORAGE - BACKUP
+Closing 41f51d32-c900-71ea-1e41-0ac3d69b0000, Cancelled, INC000028085315,  Roger Feighney, STORAGE - BACKUP
+Closing 52741e4e-c8f9-71ea-1e3a-0ac3d69b0000, Cancelled, INC000028085310,  Roger Feighney, STORAGE - BACKUP
+Closing 68e87ff6-c8ba-71ea-1dff-0ac3d69b0000, Cancelled, INC000028084638,  Roger Feighney, STORAGE - BACKUP
+Closing 3f482046-c8b7-71ea-1dfd-0ac3d69b0000, Resolved, INC000028084627,  Roger Feighney, STORAGE - BACKUP
+Closing f3e13692-c8a2-71ea-1de8-0ac3d69b0000, Resolved, INC000028080897,  Roger Feighney, STORAGE - BACKUP
+Closing cb128b3c-c8b4-71ea-1dfa-0ac3d69b0000, Resolved, INC000028084625,  Roger Feighney, STORAGE - BACKUP
+Closing a7da81e6-c8b0-71ea-1df6-0ac3d69b0000, Resolved, INC000028084618,  Roger Feighney, STORAGE - BACKUP
+Closing 01a8eb50-c8b0-71ea-1df5-0ac3d69b0000, Resolved, INC000028084616,  Roger Feighney, STORAGE - BACKUP
+Closing f9c0d640-c8ab-71ea-1df1-0ac3d69b0000, Resolved, INC000028084600,  Roger Feighney, STORAGE - BACKUP
+Closing 89b4ddf4-c899-71ea-1ddf-0ac3d69b0000, Resolved, INC000028080870,  Roger Feighney, STORAGE - BACKUP
+Closing e2188a68-c894-71ea-1dda-0ac3d69b0000, Cancelled, INC000028080866,  Roger Feighney, STORAGE - BACKUP
+Closing a24c58ee-c892-71ea-1dd8-0ac3d69b0000, Resolved, INC000028080863,  Roger Feighney, STORAGE - BACKUP
+Closing 777348c6-c892-71ea-1dd8-0ac3d69b0000, Resolved, INC000028080862,  Roger Feighney, STORAGE - BACKUP
+Closing 23a6236c-c883-71ea-1dc9-0ac3d69b0000, Resolved, INC000028080836,  Roger Feighney, STORAGE - BACKUP
+Closing 7a7b1bba-c87f-71ea-1dc5-0ac3d69b0000, Cancelled, INC000028080835,  Roger Feighney, STORAGE - BACKUP
+Closing c2bd5c5e-c87e-71ea-1dc4-0ac3d69b0000, Resolved, INC000028080834,  Roger Feighney, STORAGE - BACKUP
+Closing b0153c32-c83a-71ea-028f-0ac3d69b0000, Resolved, INC000028080813,  API Bridge2, DCN CompuCom Incident Management
+Closing 4cac8bd2-c83a-71ea-028f-0ac3d69b0000, Resolved, INC000028080812,  API Bridge2, DCN CompuCom Incident Management
+Closing 8793cf0e-c7bc-71ea-0216-0ac3d69b0000, Resolved, INC000028074565,  Roger Feighney, STORAGE - BACKUP
+Closing 53c5c604-c718-71ea-1829-0ac3d69b0000, Resolved, INC000028074531,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing e2a94628-c63e-71ea-1765-0ac3d69b0000, Resolved, INC000028067978,  API Bridge2, DCN CompuCom Incident Management
+Closing e2b13848-c63d-71ea-1764-0ac3d69b0000, Resolved, INC000028067975,  API Bridge2, DCN CompuCom Incident Management
+Closing c8f60d6e-c635-71ea-175c-0ac3d69b0000, Resolved, INC000028067967,  API Bridge2, DCN CompuCom Incident Management
+Closing f1f2e016-c635-71ea-175c-0ac3d69b0000, Resolved, INC000028067968,  API Bridge2, DCN CompuCom Incident Management
+Closing 955cadac-c615-71ea-173d-0ac3d69b0000, Resolved, INC000028067947,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 10ad851e-c5c9-71ea-16f6-0ac3d69b0000, Resolved, INC000028067902,  Cristian Patrascu, MANAGED HOSTING – WINTEL
+Closing f84c05dc-c52c-71ea-166e-0ac3d69b0000, Resolved, INC000028062939,  David Leitman, MANAGED HOSTING - UNIX
+Closing 07333fd6-c422-71ea-1570-0ac3d69b0000, Resolved, INC000028062143,  API Bridge2, DCN CompuCom Incident Management
+Closing c4ee0676-c3c0-71ea-151b-0ac3d69b0000, Resolved, INC000028061786,  API Bridge2, DCN CompuCom Incident Management
+Closing 273025ce-c3a0-71ea-1504-0ac3d69b0000, Resolved, INC000028061759,  API Bridge2, DCN CompuCom Incident Management
+Closing c0af6e8a-c3a0-71ea-1504-0ac3d69b0000, Resolved, INC000028061760,  API Bridge2, DCN CompuCom Incident Management
+Closing edba5e88-c3a2-71ea-1506-0ac3d69b0000, Resolved, INC000028061763,  API Bridge2, DCN CompuCom Incident Management
+Closing b7cfa5e4-c3a2-71ea-1506-0ac3d69b0000, Resolved, INC000028061762,  API Bridge2, DCN CompuCom Incident Management
+Closing ab355d64-c394-71ea-14fc-0ac3d69b0000, Resolved, INC000028061751,  API Bridge2, DCN CompuCom Incident Management
+Closing 8dfab1c0-c396-71ea-14fe-0ac3d69b0000, Resolved, INC000028061754,  API Bridge2, DCN CompuCom Incident Management
+Closing 6a291da4-c396-71ea-14fe-0ac3d69b0000, Resolved, INC000028061752,  API Bridge2, DCN CompuCom Incident Management
+Closing ef4bc128-c38a-71ea-14f5-0ac3d69b0000, Resolved, INC000028061734,  API Bridge2, DCN CompuCom Incident Management
+Closing f21d0376-c38a-71ea-14f5-0ac3d69b0000, Resolved, INC000028061735,  API Bridge2, DCN CompuCom Incident Management
+Closing 2006eec6-c38d-71ea-14f7-0ac3d69b0000, Resolved, INC000028061739,  API Bridge2, DCN CompuCom Incident Management
+Closing 01e1f8aa-c38d-71ea-14f6-0ac3d69b0000, Resolved, INC000028061738,  API Bridge2, DCN CompuCom Incident Management
+Closing f55d400a-c38a-71ea-14f5-0ac3d69b0000, Resolved, INC000028061736,  API Bridge2, DCN CompuCom Incident Management
+Closing 050cb39a-c387-71ea-14f2-0ac3d69b0000, Resolved, INC000028061727,  API Bridge2, DCN CompuCom Incident Management
+Closing a10bf4b4-c386-71ea-14f2-0ac3d69b0000, Resolved, INC000028061726,  API Bridge2, DCN CompuCom Incident Management
+Closing 9ffe9f34-c388-71ea-14f3-0ac3d69b0000, Resolved, INC000028061729,  API Bridge2, DCN CompuCom Incident Management
+Closing 5cca0c62-c31a-71ea-14af-0ac3d69b0000, Resolved, INC000028059559,  API Bridge2, DCN CompuCom Incident Management
+Closing 80a80546-c31d-71ea-14b2-0ac3d69b0000, Resolved, INC000028059565,  API Bridge2, DCN CompuCom Incident Management
+Closing 574effc6-c31b-71ea-14b0-0ac3d69b0000, Resolved, INC000028059560,  API Bridge2, DCN CompuCom Incident Management
+Closing 019e5188-c31d-71ea-14b1-0ac3d69b0000, Resolved, INC000028059564,  API Bridge2, DCN CompuCom Incident Management
+Closing 683ad0d8-c318-71ea-14ae-0ac3d69b0000, Resolved, INC000028059558,  API Bridge2, DCN CompuCom Incident Management
+Closing e1d8b174-c315-71ea-14ad-0ac3d69b0000, Resolved, INC000028059553,  API Bridge2, DCN CompuCom Incident Management
+Closing cfa489f6-c30b-71ea-14a9-0ac3d69b0000, Resolved, INC000028059539,  API Bridge2, DCN CompuCom Incident Management
+Closing e9ecbcf0-c30d-71ea-14a9-0ac3d69b0000, Resolved, INC000028059542,  API Bridge2, DCN CompuCom Incident Management
+Closing ad4aa93a-c2fc-71ea-14a2-0ac3d69b0000, Resolved, INC000028059525,  API Bridge2, DCN CompuCom Incident Management
+Closing f0bf3d52-c2fc-71ea-14a2-0ac3d69b0000, Resolved, INC000028059526,  API Bridge2, DCN CompuCom Incident Management
+Closing e3f5c34e-c2f6-71ea-149f-0ac3d69b0000, Resolved, INC000028059521,  API Bridge2, DCN CompuCom Incident Management
+Closing 99a60786-c2f6-71ea-149f-0ac3d69b0000, Resolved, INC000028059520,  API Bridge2, DCN CompuCom Incident Management
+Closing 716085ea-c147-71ea-13da-0ac3d69b0000, Resolved, INC000028047571,  Alex Mireku, OCC
+Closing f641d77e-c038-71ea-136e-0ac3d69b0000, Resolved, INC000028041979,  Shan Ahmad, GoCLOUD RESPONSE
+Closing c379cbdc-aafb-71ea-1ad6-0ac3d69b0000, Resolved, INC000027952517,  Michael Siolkowsky, DATABASE SUPPORT SDC
+Closing cc592d8a-bc0b-71ea-11b7-0ac3d69b0000, Closed, INC000028028327,  API Bridge2, DCN CompuCom Incident Management
+Closing 09c669ee-bbd0-71ea-119c-0ac3d69b0000, Closed, INC000028026951,  David Leitman, MANAGED HOSTING - UNIX
+Closing 4ca15eba-bbec-71ea-11ad-0ac3d69b0000, Resolved, INC000028028318,  David Leitman, MANAGED HOSTING - UNIX
+Closing 49aac904-bbcd-71ea-119b-0ac3d69b0000, Closed, INC000028026950,  David Leitman, MANAGED HOSTING - UNIX
+Closing ade8e74a-bb7b-71ea-1180-0ac3d69b0000, Closed, INC000028026937,  Wade Cooper, HARDWARE SUPPORT
+Closing 7df85cb4-bb71-71ea-117c-0ac3d69b0000, Closed, INC000028026924,  Wade Cooper, HARDWARE SUPPORT
+Closing c38cd22a-bb01-71ea-0b4e-0ac213330000, Resolved, INC000028023089,  Leo Pace, TECHNICAL SERVICES
+Closing 991647e2-ba5c-71ea-1118-0ac3d69b0000, Closed, INC000028018573,  David Leitman, MANAGED HOSTING - UNIX
+Closing bb59ae26-ba5b-71ea-1118-0ac3d69b0000, Resolved, INC000028018572,  David Leitman, MANAGED HOSTING - UNIX
+Closing 3994a836-ba1b-71ea-1102-0ac3d69b0000, Resolved, INC000028018544,  Scott MacGregor, STORAGE - BACKUP
+Closing 6d7bb3e2-b7c3-71ea-0fbc-0ac3d69b0000, Closed, INC000028012253,  David Leitman, MANAGED HOSTING - UNIX
+Closing c5c624c0-aa89-71ea-1dce-0ac3d47b0000, Resolved, INC000027947762,  Joe Ruffolo, TOOLS
+Closing 303f54d0-b25e-71ea-0a35-0ac81c3f0000, Closed, INC000027990604,  Faizan Ali, SUS OPERATIONS
+Closing 1be45956-af55-71ea-1d1f-0ac3d69b0000, Resolved, INC000027974108,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 1be096ae-af55-71ea-1d1f-0ac3d69b0000, Resolved, INC000027974109,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 54f98d76-acb0-71ea-1bbc-0ac3d69b0000, Resolved, INC000027962881,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 54f4e69a-acb0-71ea-1bbc-0ac3d69b0000, Resolved, INC000027962880,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 843efa76-a896-71ea-1924-0ac3d69b0000, Resolved, INC000027942394,  Wade Cooper, HARDWARE SUPPORT
+Closing 2bb968e0-9848-71ea-1dce-0ac3d47b0000, Resolved, INC000027868184,  Dimiter Todorov, TOOLS
