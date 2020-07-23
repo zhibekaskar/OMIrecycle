@@ -1,0 +1,57 @@
+Closing c8ba124c-c11b-71ea-13c0-0ac3d69b0000, Resolved, INC000028047533,  Robert Tucci, OCC
+Closing 895680fe-c11b-71ea-13c0-0ac3d69b0000, Resolved, INC000028047531,  Robert Tucci, OCC
+Closing 4e29cfc2-c11b-71ea-13c0-0ac3d69b0000, Resolved, INC000028047530,  Robert Tucci, OCC
+Closing cda15aaa-c11a-71ea-13c0-0ac3d69b0000, Resolved, INC000028047529,  Robert Tucci, OCC
+Closing b78f7580-c11a-71ea-13c0-0ac3d69b0000, Resolved, INC000028047528,  Robert Tucci, OCC
+Closing a0e5a246-c11a-71ea-13c0-0ac3d69b0000, Resolved, INC000028047527,  Robert Tucci, OCC
+Closing 49865340-c0db-71ea-13aa-0ac3d69b0000, Resolved, INC000028044897,  Wade Cooper, HARDWARE SUPPORT
+Closing 5b2b6b96-c0b6-71ea-139c-0ac3d69b0000, Resolved, INC000028044886,  API Bridge2, DCN CompuCom Incident Management
+Closing 668481fa-bffb-71ea-1357-0ac3d69b0000, Resolved, INC000028041960,  API Bridge2, DCN CompuCom Incident Management
+Closing fcee06a2-c0af-71ea-1398-0ac3d69b0000, Resolved, INC000028044880,  API Bridge2, DCN CompuCom Incident Management
+Closing fce7d552-c0af-71ea-1398-0ac3d69b0000, Resolved, INC000028044881,  API Bridge2, DCN CompuCom Incident Management
+Closing 53f9c4ca-c09e-71ea-1391-0ac3d69b0000, Resolved, INC000028044829,  API Bridge2, DCN CompuCom Incident Management
+Closing 5394dd7c-c0a7-71ea-1395-0ac3d69b0000, Resolved, INC000028044860,  API Bridge2, DCN CompuCom Incident Management
+Closing 53b5816e-c0a0-71ea-1393-0ac3d69b0000, Resolved, INC000028044852,  API Bridge2, DCN CompuCom Incident Management
+Closing 5419bd5c-c09e-71ea-1391-0ac3d69b0000, Resolved, INC000028044833,  API Bridge2, DCN CompuCom Incident Management
+Closing 5411d16e-c09e-71ea-1391-0ac3d69b0000, Resolved, INC000028044832,  API Bridge2, DCN CompuCom Incident Management
+Closing 5421abb6-c09e-71ea-1391-0ac3d69b0000, Resolved, INC000028044831,  API Bridge2, DCN CompuCom Incident Management
+Closing 074a6a80-c09e-71ea-1390-0ac3d69b0000, Resolved, INC000028044822,  Randy To, MANAGED HOSTING – WINTEL
+Closing f32e8a66-c07c-71ea-0c40-8e90401c0000, Resolved, INC000028044808,  Arley Roberts, EFSS - FILE PRINT
+Closing cfd0c7c2-c078-71ea-0c40-8e90401c0000, Resolved, INC000028044805,  Ken Chirico, EFSS - FILE PRINT
+Closing 271c9972-c06f-71ea-0c24-8e9040240000, Resolved, INC000028044804,  Mike Pascoal, OCC INBOUND QUEUE
+Closing dc22fc30-c06d-71ea-0c24-8e9040240000, Resolved, INC000028044803,  Mike Pascoal, OCC INBOUND QUEUE
+Closing 65c116e4-c009-71ea-135e-0ac3d69b0000, Resolved, INC000028041967,  API Bridge2, DCN CompuCom Incident Management
+Closing 832285de-bff4-71ea-1353-0ac3d69b0000, Resolved, INC000028041941,  API Bridge2, DCN CompuCom Incident Management
+Closing fd0750e0-bff5-71ea-1354-0ac3d69b0000, Resolved, INC000028041950,  API Bridge2, DCN CompuCom Incident Management
+Closing 95670630-bff8-71ea-1355-0ac3d69b0000, Resolved, INC000028041957,  API Bridge2, DCN CompuCom Incident Management
+Closing 95555afc-bff8-71ea-1355-0ac3d69b0000, Resolved, INC000028041956,  API Bridge2, DCN CompuCom Incident Management
+Closing 5f73cdce-bff8-71ea-1355-0ac3d69b0000, Resolved, INC000028041953,  API Bridge2, DCN CompuCom Incident Management
+Closing 91ba4d92-bfeb-71ea-134f-0ac3d69b0000, Resolved, INC000028041921,  API Bridge2, DCN CompuCom Incident Management
+Closing dbb30cae-bfeb-71ea-134f-0ac3d69b0000, Resolved, INC000028041922,  API Bridge2, DCN CompuCom Incident Management
+Closing 048b01be-bfe6-71ea-134b-0ac3d69b0000, Resolved, INC000028041901,  API Bridge2, DCN CompuCom Incident Management
+Closing 00b7d98e-bfe8-71ea-134d-0ac3d69b0000, Resolved, INC000028041904,  API Bridge2, DCN CompuCom Incident Management
+Closing b7c23948-beb3-71ea-12dc-0ac3d69b0000, Resolved, INC000028035862,  Luke Fournier, OCC
+Closing 89992638-bcb2-71ea-120d-0ac3d69b0000, Resolved, INC000028028372,  Wade Cooper, HARDWARE SUPPORT
+Closing 0c595774-ba23-71ea-1104-0ac3d69b0000, Resolved, INC000028018549,  Cary Chiu, STORAGE – BACKUP
+Closing e60d297e-bd4c-71ea-1256-0ac3d69b0000, Resolved, INC000028033737,  Sarah Heraldo, DC NETWORKS INCIDENT MANAGEMENT
+Closing cc5552fe-bd29-71ea-1247-0ac3d69b0000, Resolved, INC000028032213,  Wade Cooper, HARDWARE SUPPORT
+Closing c2008710-bc98-71ea-11fd-0ac3d69b0000, Resolved, INC000028028365,  Wade Cooper, HARDWARE SUPPORT
+Closing 8a780c20-bce1-71ea-121f-0ac3d69b0000, Resolved, INC000028028388,  Frank Mogus, MANAGED HOSTING – UNIX
+Closing 0da17c5e-bce1-71ea-121e-0ac3d69b0000, Resolved, INC000028028387,  John Lo, MANAGED HOSTING – UNIX
+Closing b978178c-bcb8-71ea-120f-0ac3d69b0000, Resolved, INC000028028374,  David Leitman, MANAGED HOSTING – UNIX
+Closing 8a5b063a-bc68-71ea-11e8-0ac3d69b0000, Resolved, INC000028028355,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 3ac602e0-bc0a-71ea-11b7-0ac3d69b0000, Resolved, INC000028028326,  John Lo, MANAGED HOSTING – UNIX
+Closing ec0dc7d8-bc17-71ea-11bd-0ac3d69b0000, Resolved, INC000028028337,  David Leitman, MANAGED HOSTING – UNIX
+Closing ec0dc7d8-bc17-71ea-11bd-0ac3d69b0000, Resolved, INC000028028337,  David Leitman, MANAGED HOSTING - UNIX
+
+
+
+
+
+
+
+
+
+
+
+
