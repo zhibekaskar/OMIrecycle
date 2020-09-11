@@ -1,0 +1,40 @@
+Closing b0f0a974-f3e2-71ea-1666-0ac3d69b0000, Resolved, INC000028262476,  Robert Tucci, OCC
+Closing b0f0a974-f3e2-71ea-1666-0ac3d69b0000, Resolved, INC000028262476,  Robert Tucci, OCC
+Closing ba4d3ae6-f3c4-71ea-165b-0ac3d69b0000, Resolved, INC000028262456,  Dean Papatheodorou, STORAGE - BACKUP
+Closing 55f57140-eec8-71ea-1fd3-0a0a12280000, Resolved, INC000028245273,  Daniel Yan, MANAGED HOSTING - WINTEL
+Closing e6094cf0-e69b-71ea-1f29-0a0a12300000, Closed, INC000028209342,  Joe Ruffolo, TOOLS
+Closing 842a21e2-ed46-71ea-141b-0ac3d69b0000, Resolved, INC000028236854,  Sherry Harper, OCC
+Closing 642bf5dc-f2b9-71ea-15f6-0ac3d69b0000, Resolved, INC000028257271,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing 31435c0e-f2ba-71ea-15f6-0ac3d69b0000, Resolved, INC000028257272,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing fa0263a8-f38f-71ea-164a-0ac3d69b0000, Resolved, INC000028262440,  Saqib Bukhari, HARDWARE SUPPORT
+Closing 8f6a3584-f231-71ea-15bd-0ac3d69b0000, Resolved, INC000028257223,  Roger Feighney, STORAGE - BACKUP
+Closing 3de9116e-ddc1-71ea-0ebe-0ac3d69b0000, Closed, INC000028172921,  API Bridge2, DCN CompuCom Incident Management
+Closing 8f90ba36-eed2-71ea-1499-0ac3d69b0000, Resolved, INC000028245277,  David Leitman, MANAGED HOSTING - UNIX
+Closing eed1c786-ee98-71ea-1487-0ac3d69b0000, Resolved, INC000028245260,  Sherry Harper, OCC
+Closing eb687968-f2a4-71ea-15ec-0ac3d69b0000, Resolved, INC000028257260,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing 3a9bc924-f2a3-71ea-15eb-0ac3d69b0000, Resolved, INC000028257258,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing f1d96bac-f2a1-71ea-15ea-0ac3d69b0000, Resolved, INC000028257257,  Nick Nicastro, OCC
+Closing fac39720-f2a0-71ea-1311-8e90401c0000, Resolved, INC000028257255,  Arley Roberts, EFSS - FILE PRINT
+Closing 09a42650-f23e-71ea-15c3-0ac3d69b0000, Resolved, INC000028257225,  David Leitman, MANAGED HOSTING - UNIX
+Closing 6b7a5204-f195-71ea-1585-0ac3d69b0000, Resolved, INC000028252065,  David Leitman, MANAGED HOSTING - UNIX
+Closing 76fea34c-f211-71ea-1300-8e90401c0000, Resolved, INC000028257201,  Ken Stremlaw, EFSS - FILE PRINT
+Closing 747f7784-f1f5-71ea-15ab-0ac3d69b0000, Resolved, INC000028252086,  Sherry Harper, OCC INBOUND QUEUE
+Closing 74824bc6-f1f5-71ea-15ab-0ac3d69b0000, Resolved, INC000028252085,  Sherry Harper, OCC INBOUND QUEUE
+Closing d01c20f0-efa8-71ea-0905-8e9040240000, Resolved, INC000028250768,  Lori Laur, OCC
+Closing 00ef5f42-eede-71ea-149d-0ac3d69b0000, Resolved, INC000028245285,  Steve Thompson, MANAGED HOSTING - UNIX
+Closing ef0d8876-eedd-71ea-149d-0ac3d69b0000, Resolved, INC000028245282,  Steve Thompson, MANAGED HOSTING - UNIX
+Closing 73d3de6c-eece-71ea-1498-0ac3d69b0000, Resolved, INC000028245276,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing f26fdf48-eecc-71ea-1498-0ac3d69b0000, Resolved, INC000028245275,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing dc6cec54-eec7-71ea-1496-0ac3d69b0000, Resolved, INC000028245272,  API Bridge2, DCN CompuCom Incident Management
+Closing 6ec925e6-ee86-71ea-1480-0ac3d69b0000, Resolved, INC000028245258,  Sherry Harper, OCC
+Closing 8dff94a0-ee62-71ea-147a-0ac3d69b0000, Resolved, INC000028245254,  David Leitman, MANAGED HOSTING - UNIX
+Closing 811c96f2-edf4-71ea-145d-0ac3d69b0000, Resolved, INC000028245207,  Wade Cooper, HARDWARE SUPPORT
+Closing e1235d92-ed4a-71ea-141b-0ac3d69b0000, Resolved, INC000028236857,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing aa3a85be-ed34-71ea-1412-0ac3d69b0000, Resolved, INC000028236843,  Sherry Harper, OCC
+Closing 993f80aa-ed1d-71ea-140a-0ac3d69b0000, Resolved, INC000028236837,  David Leitman, MANAGED HOSTING - UNIX
+Closing 39f1504e-ecd0-71ea-13f1-0ac3d69b0000, Resolved, INC000028236825,  David Leitman, MANAGED HOSTING - UNIX
+Closing 2255eada-ecd0-71ea-13f1-0ac3d69b0000, Resolved, INC000028236824,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing 227dae74-ec87-71ea-125c-8e90401c0000, Resolved, INC000028236805,  Ken Stremlaw, EFSS - FILE PRINT
+Closing 7fcbc6e8-ec77-71ea-13dc-0ac3d69b0000, Resolved, INC000028236801,  Cary Chiu, STORAGE - BACKUP
+Closing f2289a9c-ec6b-71ea-13db-0ac3d69b0000, Resolved, INC000028229195,  Saqib Bukhari, HARDWARE SUPPORT
+Closing f224e97e-ec6b-71ea-13db-0ac3d69b0000, Resolved, INC000028229194,  Saqib Bukhari, HARDWARE SUPPORT
