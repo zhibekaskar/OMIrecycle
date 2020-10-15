@@ -1,0 +1,30 @@
+Closing 6250180e-0e09-71eb-011f-0ac3d69b0000, Resolved, INC000028377399,  API.Bridge2, COMPUCOM SMS
+Closing 77d1bef8-03dc-71eb-1d34-0ac3d69b0000, Resolved, INC000028339552,  Luke Fournier, OCC
+Closing 5ed65626-03ea-71eb-1d3a-0ac3d69b0000, Resolved, INC000028339555,  Vickie Charboneau, OCC INBOUND QUEUE
+Closing 63813568-fe33-71ea-1aff-0ac3d69b0000, Resolved, INC000028313002,  Michael Siolkowsky, OPERATIONS SDC
+Closing 66bec5c4-fe74-71ea-17b5-0ac26b640000, Closed, INC000028313251,  John Lo, MANAGED HOSTING - UNIX
+Closing 66bb64d8-fe74-71ea-17b5-0ac26b640000, Closed, INC000028313250,  Bradley Hilderley, TOOLS
+Closing 34a60362-fa0b-71ea-190a-0ac3d69b0000, Closed, INC000028293580,  API Bridge2, DCN CompuCom Incident Management
+Closing 47f25da2-0dc1-71eb-0109-0ac3d69b0000, Resolved, INC000028377389,  Dean Papatheodorou, STORAGE - BACKUP
+Closing 9dd3a908-097d-71eb-1f62-0ac3d69b0000, Resolved, INC000028365337,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing cf543ab0-0d88-71eb-00f2-0ac3d69b0000, Resolved, INC000028377374,  Dean Papatheodorou, STORAGE - BACKUP
+Closing 6722be3e-0d2a-71eb-00d1-0ac3d69b0000, Resolved, INC000028377343,  Roger Feighney, STORAGE - BACKUP
+Closing e5da030e-0ce4-71eb-00b9-0ac3d69b0000, Resolved, INC000028377329,  Dean Papatheodorou, STORAGE - BACKUP
+Closing 39b5ffba-0b5e-71eb-0027-0ac3d69b0000, Resolved, INC000028373755,  Robert Tucci, OCC
+Closing 4eb5902e-0c3f-71eb-007c-0ac3d69b0000, Resolved, INC000028377312,  Robert Tucci, OCC
+Closing c6d6d6b8-0c3e-71eb-007c-0ac3d69b0000, Resolved, INC000028377311,  Robert Tucci, OCC
+Closing 38a8ae6a-0bbd-71eb-004d-0ac3d69b0000, Resolved, INC000028373775,  John Lo, MANAGED HOSTING - UNIX
+Closing 695651b4-0bb0-71eb-0047-0ac3d69b0000, Resolved, INC000028373763,  Robert Tucci, OCC
+Closing b1cb966e-0bbc-71eb-004d-0ac3d69b0000, Resolved, INC000028373774,  John Lo, MANAGED HOSTING - UNIX
+Closing 1123ab0c-0bbc-71eb-004c-0ac3d69b0000, Resolved, INC000028373772,  John Lo, MANAGED HOSTING - UNIX
+Closing e08728fa-0bb3-71eb-0049-0ac3d69b0000, Resolved, INC000028373767,  Robert Tucci, OCC
+Closing 9ea9fad4-0bb3-71eb-0049-0ac3d69b0000, Resolved, INC000028373764,  Robert Tucci, OCC
+Closing ef933a7e-0bad-71eb-0047-0ac3d69b0000, Resolved, INC000028373762,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing 61da6d84-0aad-71eb-1fd6-0ac3d69b0000, Resolved, INC000028373728,  Robert Tucci, OCC
+Closing 365c9362-0a94-71eb-1fc9-0ac3d69b0000, Resolved, INC000028373722,  Dean Papatheodorou, STORAGE - BACKUP
+Closing f37a4610-0a8f-71eb-0d94-8e9040240000, Resolved, INC000028373721,  Robert Tucci, OCC
+Closing 4ffdc440-0a5c-71eb-15d6-8e90401c0000, Resolved, INC000028371082,  Ben Lepp, MANAGED HOSTING - WINTEL
+Closing 2aec735e-0a52-71eb-15d4-8e90401c0000, Resolved, INC000028371062,  BEN ONDORO, EFSS - FILE PRINT
+Closing 5827470e-0a4d-71eb-1fb1-0ac3d69b0000, Resolved, INC000028371051,  Frank Mogus, MANAGED HOSTING - UNIX
+Closing eb1c8c6e-01f0-71eb-1c7e-0ac3d69b0000, Resolved, INC000028328606,  Dean Papatheodorou, STORAGE - BACKUP
+Closing 3b7ad738-08fe-71eb-1f30-0ac3d69b0000, Resolved, INC000028360190,  Daniel Yan, MANAGED HOSTING - WINTEL
